@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1. install node versions 12.16.1 above version
+2. to install app : npm install
+3. to start client interface react server : npm start
+4. please go to see client object in http://localhost:3000
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,4 +71,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # Tiicott
